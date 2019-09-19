@@ -6,7 +6,7 @@
  * Copyright (C) 2000 David A. Hinds -- dhinds@pcmcia.sourceforge.org
  */
 
-#ifndef _NETTOOL_MII_H
+#ifndef _NETTOOLS_MII_H
 #define _NETTOOLS_MII_H
 
 #include <linux/sockios.h>
