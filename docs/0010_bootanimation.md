@@ -22,3 +22,7 @@ p 0 0 part1
   mek_8q/BoardConfig.mk:          device/fsl/imx8q/etc/bootanimation.zip:system/media/bootanimation.zip
   ```
 * /system/media/bootanimation.zip
+
+## 7zip打包方法
+
+![images/7zip_bootanimation.png](images/7zip_bootanimation.png)
