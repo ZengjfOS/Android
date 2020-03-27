@@ -27,8 +27,8 @@ class Helloworld extends StateMachine {
 
         // 构造状态树
         addState(mP1);
-        addState(mS1, mP1);
-        addState(mS2, mP1);
+          addState(mS1, mP1);
+          addState(mS2, mP1);
         addState(mP2);
 
         // 设置初始状态

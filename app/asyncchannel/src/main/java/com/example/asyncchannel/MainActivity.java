@@ -1,4 +1,4 @@
-package com.example.statemachine;
+package com.example.asyncchannel;
 
 import android.os.Bundle;
 
@@ -8,14 +8,11 @@ import com.google.android.material.snackbar.Snackbar;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
-import android.util.Log;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
-
-    private static final String TAG = "MainActivity";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,17 +29,6 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-
-        Helloworld hw = Helloworld.makeHelloworld();
-        // synchronize(hw) {
-        /*
-        hw.sendMessage(hw.obtainMessage(hw.CMD_1));
-        hw.sendMessage(hw.obtainMessage(hw.CMD_2));
-         */
-
-        hw.getHandler().sendMessage(hw.obtainMessage(hw.CMD_1));
-        hw.getHandler().sendMessage(hw.obtainMessage(hw.CMD_2));
-        // }
     }
 
     @Override
