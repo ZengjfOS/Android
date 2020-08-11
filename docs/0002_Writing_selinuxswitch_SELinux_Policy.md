@@ -1,5 +1,7 @@
 # Writing selinuxswitch SELinux Policy
 
+自定义脚本SELinux策略编写方法
+
 ## 参考文档
 
 * [Customizing SELinux](https://source.android.com/security/selinux/customize)

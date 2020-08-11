@@ -1,5 +1,7 @@
 # SystemServer ServiceManager
 
+SystemServer ServiceManager所处的阶段
+
 ## Service Manager
 
 Service Manager和zygote进程奠定了Android的基础。所以从启动顺序上来看，Service Manager和zygote是一个级别的，都是由init启动， 而System Server是由zygote进程fork出来的。init进程通过创建子进程启动这些服务,创建的service都属于 native服务,运行在Linux空间。

@@ -1,5 +1,7 @@
 # Linux Kernel Logo
 
+Linux内核Logo图片
+
 ## make menuconfig
 
 * CONFIG_DRM_FBDEV_EMULATION

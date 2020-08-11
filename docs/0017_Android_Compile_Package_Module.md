@@ -1,5 +1,7 @@
 # Android P Add APK
 
+编译Android APP和默认Module
+
 ## 参考文档
 
 * [Android P系统编译打包时去掉不必要的apk](https://blog.csdn.net/Sunxiaolin2016/article/details/91612992)

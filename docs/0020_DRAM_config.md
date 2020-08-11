@@ -1,5 +1,7 @@
 # DRAM config
 
+U-Boot中DRAM的配置
+
 ## u-boot
 
 内存的初始化是在bootloader中进行初始化的

@@ -1,5 +1,7 @@
 # Chip ID
 
+芯片ID
+
 ## 参考文档
 
 * [android平台获取手机IMSI，IMEI ,序列号，和 手机号的方法](https://www.cnblogs.com/tyjsjl/p/3585051.html)

@@ -1,5 +1,7 @@
 # fastboot disable-verity
 
+fastboot使用方法
+
 * fastboot命令是在Windows中cmd中下命令，不是在u-boot中下命令
 * 目前很多ARM SoC的烧录是用fastboot进行系统烧录：
   * 将SoC内部ROM程序通过USB加载u-boot；

@@ -1,5 +1,7 @@
 # adb input
 
+adb作为鼠标、键盘模拟设备
+
 ## 参考文档
 
 * [Android中通过adb shell input来模拟滑动、按键、点击事件](https://blog.csdn.net/MENGHUANBEIKE/article/details/80008695)

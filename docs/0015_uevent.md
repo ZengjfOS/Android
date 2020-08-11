@@ -1,5 +1,7 @@
 # uevent
 
+Android设备权限配置
+
 ## 示例
 
 ueventd.freescale.rc

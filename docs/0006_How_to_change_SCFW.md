@@ -1,5 +1,7 @@
 # How to change SCFW
 
+SCFW是怎么编译出来的
+
 SCFW is a binary stored in ${MY_ANDROID}/vendor/nxp/fsl-proprietary/uboot-firmware, built into bootloader. To change SCFW, you need SCFW porting kit and specified board configuration file. SCFW porting kit contains prebuilt binaries and libraries.
 
 

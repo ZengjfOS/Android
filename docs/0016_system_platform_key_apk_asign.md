@@ -1,5 +1,7 @@
 # system platform key apk asign
 
+内置APK签名
+
 ## 参考文档
 
 * [Android 8.0系统给第三方apk进行系统签名（未使用Andriod Studio，在Android系统编译环境下签名）](https://blog.csdn.net/sinat_24946363/article/details/79934086)

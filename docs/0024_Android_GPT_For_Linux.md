@@ -1,5 +1,7 @@
 # Android GPT
 
+GPT分区
+
 ## bpt tool
 
 https://android.googlesource.com/platform/system/tools/bpt/+/refs/heads/master/README

@@ -1,5 +1,7 @@
 # How To Read Android Source Code
 
+Android源代码很大，怎么阅读
+
 ## 参考文档
 
 * [idegen：一个角落里的法器](https://www.jianshu.com/p/8f9b4e4970c9)

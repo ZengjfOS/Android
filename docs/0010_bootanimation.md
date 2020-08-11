@@ -1,5 +1,7 @@
 # bootanimation
 
+Android动态界面
+
 ## 参考文档
 
 * [android开机动画bootanimation 分析](https://blog.csdn.net/MENGHUANBEIKE/article/details/78835536)

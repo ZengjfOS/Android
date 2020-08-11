@@ -1,5 +1,7 @@
 # backlight
 
+背光控制原理
+
 ## 参考文档
 
 [android lcd 背光控制流程](https://blog.csdn.net/hbk320/article/details/48275369)

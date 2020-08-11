@@ -1,5 +1,7 @@
 # export GPIO
 
+利用Linux GPIO的export调试硬件
+
 SC_P_USDHC2_VSELECT_LSIO_GPIO4_IO10 0x18000020              // rfkill pin
 
 ## GPIO分组情况

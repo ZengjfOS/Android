@@ -1,5 +1,7 @@
 # dumpsys
 
+利用dumpsys调试系统
+
 ## 参考文档
 
 * https://developer.android.com/studio/command-line/dumpsys

@@ -1,5 +1,7 @@
 # build id version
 
+Android版本信息如何设置
+
 ## 编译版本设定
 
 * device/fsl/imx8q/mek_8q/build_id_car.mk

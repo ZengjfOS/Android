@@ -1,5 +1,7 @@
 # Linux DRM modetest And Qt
 
+使用modetest测试显示屏
+
 Android中默认是没有将modetest编译出来的，需要自己额外编译一下，Android.mk是自带了的
 
 ## Android.mk

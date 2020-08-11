@@ -1,5 +1,7 @@
 # dtb.img decompile to dts
 
+从dtb.img中提取dts
+
 ## 参考文档
 
 * [反编译andriod dtbo.img 为dts](https://blog.csdn.net/movenostop/article/details/95189605)
