@@ -16,6 +16,8 @@
             <option value="$PROJECT_DIR$/app/aidlserver" />
             <option value="$PROJECT_DIR$/app/asyncchannel" />
             <option value="$PROJECT_DIR$/app/handler" />
+            <option value="$PROJECT_DIR$/app/preferencefragment" />
+            <option value="$PROJECT_DIR$/app/receivebroadcast" />
             <option value="$PROJECT_DIR$/app/statemachine" />
           </set>
         </option>

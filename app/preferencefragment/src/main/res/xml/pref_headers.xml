@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ListPreference
+        android:key="setting_language_preference"
+        android:title="语言设置"
+        android:entries="@array/language_entries"
+        android:entryValues="@array/language_values"
+        android:summary="支持：普通话，粤语，英语，德语，法语"
+        android:defaultValue="mandarin"  />
+
+    <EditTextPreference
+        android:key="setting_preference"
+        android:title="连接超时"
+        android:dialogTitle="请输入时间(0-10000)ms"
+        android:summary="默认值1800"
+        android:defaultValue="1800" />
+
+
+    <CheckBoxPreference
+        android:key="@string/pref_key_translate"
+        android:title="Love me ?"
+        android:defaultValue="false" />
+
+</PreferenceScreen>
