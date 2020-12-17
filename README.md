@@ -2,11 +2,18 @@
 
 * [NXP i.MX Source Code](https://source.codeaurora.org/external/imx)
 * 在线代码阅读：[AndroidXRef.com](http://androidxref.com/)
+* https://github.com/ZengjfOS/RaspberryPi
 
 ## docs
 
 NO.|文件名称|摘要
 :--:|:--|:--
+0038| [Android_BT_Sample_Code.md](docs/0038_Android_BT_Sample_Code.md) | 看代码自然是看Google官方发布的参考代码了
+0037| [Android_Studio_NDK_Not_Install.md](docs/0037_Android_Studio_NDK_Not_Install.md) | NDK安装及配置报错
+0036| [BT_Serial.md](docs/0036_BT_Serial.md) | 蓝牙串口注意事项
+0035| [cmd_broadcast.md](docs/0035_cmd_broadcast.md) | 用命令发广播
+0034| [Settings.md](docs/0034_Settings.md) | Android Settings分析
+0033| [Android_Studio_Settings.md](docs/0033_Android_Studio_Settings.md) | 在AS中阅读Settings源代码，主要是配置和导入jar包
 0032| [SystemServer_ServiceManager.md](docs/0032_SystemServer_ServiceManager.md) | SystemServer ServiceManager所处的阶段
 0031| [dumpsys.md](docs/0031_dumpsys.md) | 利用dumpsys调试系统
 0030| [Chip_ID.md](docs/0030_Chip_ID.md) | 芯片ID
