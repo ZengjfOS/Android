@@ -52,7 +52,7 @@ public class AIDLService extends Service {
                 i--;
 
                 ICallBack iCallBack = callbackList.getBroadcastItem(i);
-                Log.d(TAG, "iCallBack" + iCallBack);
+                Log.d(TAG, "iCallBack " + iCallBack);
                 iCallBack.callback();
 
                 callbackList.unregister(callbackList.getBroadcastItem(i));

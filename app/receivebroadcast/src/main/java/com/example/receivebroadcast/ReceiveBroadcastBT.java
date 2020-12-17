@@ -10,6 +10,6 @@ public class ReceiveBroadcastBT extends BroadcastReceiver {
 
     @Override
     public void onReceive(Context context, Intent intent) {
-        Log.d(TAG, "Received BT Broadcast Action: " + intent.getAction());
+        Log.e(TAG, "Received BT Broadcast Action: " + intent.getAction());
     }
 }
