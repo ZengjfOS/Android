@@ -8,6 +8,7 @@
 
 NO.|文件名称|摘要
 :--:|:--|:--
+0039| [Layout_Inspector.md](docs/0039_Layout_Inspector.md) | 通过UI界面来反推代码操作
 0038| [Android_BT_Sample_Code.md](docs/0038_Android_BT_Sample_Code.md) | 看代码自然是看Google官方发布的参考代码了
 0037| [Android_Studio_NDK_Not_Install.md](docs/0037_Android_Studio_NDK_Not_Install.md) | NDK安装及配置报错
 0036| [BT_Serial.md](docs/0036_BT_Serial.md) | 蓝牙串口注意事项
